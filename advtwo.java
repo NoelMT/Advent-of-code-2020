@@ -7,7 +7,7 @@ public class advtwo {
 
 
         public static void main(String[] args) throws FileNotFoundException {
-            Scanner in = new Scanner(new File("C:\\Users\\noete\\Desktop\\Advent-of-code-2020\\input2.txt"));
+            Scanner in = new Scanner(new File("input2.txt"));
             int verti = 0;
             int horiz = 0;
             String[] b = new String[2];

@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class advone {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner in = new Scanner(new File("C:\\Users\\noete\\Desktop\\Advent-of-code-2020\\input1.txt"));
+        Scanner in = new Scanner(new File("input1.txt"));
         int[] a = new int[2000];
         int i = 0;
         while (in.hasNextInt())
